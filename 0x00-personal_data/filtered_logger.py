@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """A module for filtering logs.
 """
@@ -99,4 +98,3 @@ class RedactingFormatter(logging.Formatter):
 
 if __name__ == "__main__":
     main()
-
